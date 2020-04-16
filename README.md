@@ -51,4 +51,4 @@ Após esse comando iremos receber a mensagem "Iniciado" isso indica que tudo deu
 	<p>"aterroResiduosKgDia":1</p>
 <p>}</p>
 
-5.4 - Realizamos um Send e verificamos a resposta obtida do nosso servidor que será o quantidade de Co2 de cada item e no final a quantidade total gasta de Co2.
+5.4 - Realizamos um Send e verificamos a resposta obtida do nosso servidor que será o quantidade de Co2 de cada item e no final a quantidade total gasta de Co2 em toneladas.
